@@ -5,4 +5,5 @@
 4. [Google Maps JS API v3 - no key](https://developers.google.com/maps/tutorials/#javascript_api_v3)
 5. [Custom Google Maps Info Windows /google.maps.OverlayView/] (http://artandlogic.com/2014/02/custom-google-maps-info-windows/)
 6. [FlowType.JS - change font-size according to window width] (http://simplefocus.com/flowtype/)
+7. [ООП в JavaScript.] (https://dikmax.name/post/oopjs-1/)
 
