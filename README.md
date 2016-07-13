@@ -10,3 +10,4 @@
 ## Backbone
 1. [Rendering Views and Their ChildViews](http://danialk.github.io/blog/2013/04/07/backbone-tips-rendering-views-and-their-childviews/)
 2. [Re-Learning Backbone.js – Multiple Views](http://www.bardev.com/2012/12/24/re-learning-backbone-js-multiple-views/)
+3. [Rendering Views in Backbone.js Isn’t Always Simple](https://ianstormtaylor.com/rendering-views-in-backbonejs-isnt-always-simple)
