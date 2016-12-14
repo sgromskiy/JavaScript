@@ -16,3 +16,4 @@
 ## React
 1. [Новый уровень React: Redux](http://getinstance.info/articles/react/learning-react-redux/)
 2. [Курс Redux по-русски](https://www.gitbook.com/book/maxfarseer/redux-course-ru/details)
+3. [Redux в картинках](https://medium.com/russian/a-cartoon-intro-to-redux-e2108896f7e6)
