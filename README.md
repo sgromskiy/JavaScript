@@ -20,4 +20,5 @@
 
 
 ## Angular
-1. Примеры кода (http://www.code-sample.com/2014/09/angularjs-documentation.html)
+1. [Примеры кода](http://www.code-sample.com/2014/09/angularjs-documentation.html)
+2. [Cross component communication](http://www.aurorasolutions.io/blog/angularjs-cross-component-communication/)
