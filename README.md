@@ -17,3 +17,7 @@
 1. [Новый уровень React: Redux](http://getinstance.info/articles/react/learning-react-redux/)
 2. [Курс Redux по-русски](https://www.gitbook.com/book/maxfarseer/redux-course-ru/details)
 3. [Redux в картинках](https://medium.com/russian/a-cartoon-intro-to-redux-e2108896f7e6)
+
+
+## Angular
+1. Примеры кода (http://www.code-sample.com/2014/09/angularjs-documentation.html)
